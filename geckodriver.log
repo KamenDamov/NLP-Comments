@@ -229,79 +229,107 @@ console.error: ({})
 JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
 JavaScript warning: debugger eager eval code, line 7: unreachable code after return statement
 JavaScript warning: resource://devtools/server/actors/webconsole/eval-with-debugger.js, line 272: unreachable code after return statement
-esource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
-1654747865828	Marionette	INFO	Stopped listening on port 57962
-1654747881371	geckodriver	INFO	Listening on 127.0.0.1:54828
-1654747884446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebaL09A"
-*** You are running in headless mode.
-1654747884934	Marionette	INFO	Marionette enabled
-WebDriver BiDi listening on ws://localhost:54829
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebaL09A\\search.json.mozlz4", (void 0)))
-1654747886517	Marionette	INFO	Listening on port 54853
-Read port: 54853
-DevTools listening on ws://localhost:54829/devtools/browser/d3decc18-bfe6-4655-ae2b-69baee71cfa0
-1654747886566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1654747891281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:62549
-1654748546415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemcrkjB"
-*** You are running in headless mode.
-1654748546963	Marionette	INFO	Marionette enabled
-WebDriver BiDi listening on ws://localhost:62550
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemcrkjB\\search.json.mozlz4", (void 0)))
-1654748548869	Marionette	INFO	Listening on port 62574
-DevTools listening on ws://localhost:62550/devtools/browser/4bd0f6a2-31d3-4b45-80e1-11df44a459a3
-Read port: 62574
-1654748549021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1654748556366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:62634
-1654748582066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesVK94V"
-*** You are running in headless mode.
-1654748582766	Marionette	INFO	Marionette enabled
-WebDriver BiDi listening on ws://localhost:62635
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesVK94V\\search.json.mozlz4", (void 0)))
-1654748585059	Marionette	INFO	Listening on port 62660
-DevTools listening on ws://localhost:62635/devtools/browser/c81bbb2b-9c5f-4b0d-b1fc-2eefd2b60e2a
-Read port: 62660
-1654748585258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1654748587983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56696
-1654748607134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile0Z57wG"
-*** You are running in headless mode.
-1654748608219	Marionette	INFO	Marionette enabled
-WebDriver BiDi listening on ws://localhost:56697
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile0Z57wG\\search.json.mozlz4", (void 0)))
-1654748610945	Marionette	INFO	Listening on port 56722
-Read port: 56722
-1654748611054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-DevTools listening on ws://localhost:56697/devtools/browser/ca487e2b-2b95-46bf-abf0-7088a11a9796
-1654748615805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
-JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 7185 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1654748861813	geckodriver	INFO	Listening on 127.0.0.1:50074
-1654748864850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezF4ANg"
+[Parent 31688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1043 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1044 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1045 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1046 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1047 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1048 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal4294967298/source1049 does not exist"
+[2022-06-09T06:11:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:11:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:11:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:11:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 7207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967318/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 5631 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+out of memory: 0x0000000000100000 bytes requested
+[[GFX1-]: Receive GIPC closFe with Xr1e-ason=AbnormalShutdown
+]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1654783719392	Marionette	INFO	Stopped listening on port 64210
+[Parent 31688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+t" "50075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezF4ANg"
 *** You are running in headless mode.
 1654748865492	Marionette	INFO	Marionette enabled
 WebDriver BiDi listening on ws://localhost:50075
@@ -586,7 +614,8 @@ DevTools listening on ws://localhost:60411/devtools/browser/fa51a334-ed6c-4800-a
 [2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 [2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 1654754539672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-1654754631613	geckodriver	INFO	Listening on 127.0.0.1:60591
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60591
 1654754634849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileSSbkvt"
 *** You are running in headless mode.
 1654754635950	Marionette	INFO	Marionette enabled
@@ -629,3 +658,147 @@ DevTools listening on ws://localhost:60592/devtools/browser/d56a9ff0-e6d8-4ef3-a
 [GFX1-]: wr_renderer_render: OutOfMemory
 out of memory: 0x0000000000100000 bytes requested
 JavaScript error: , line 0: uncaught exception: out of memory
+1654754827358	geckodriver	INFO	Listening on 127.0.0.1:50523
+1654754830389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileVBacqX"
+*** You are running in headless mode.
+1654754831366	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50524
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileVBacqX\\search.json.mozlz4", (void 0)))
+1654754834123	Marionette	INFO	Listening on port 50558
+Read port: 50558
+1654754834314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50524/devtools/browser/bf761eee-248e-44ba-8a7d-10add018708c
+1654754840828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T06:07:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:07:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:07:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:07:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59354
+1654754878783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile5OyIx3"
+*** You are running in headless mode.
+1654754879563	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59355
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile5OyIx3\\search.json.mozlz4", (void 0)))
+1654754882226	Marionette	INFO	Listening on port 59380
+DevTools listening on ws://localhost:59355/devtools/browser/65184788-9f82-4a72-ad8c-17a941dea0b7
+Read port: 59380
+1654754882477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T06:08:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:08:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:08:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654754888724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T06:08:08Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:65278
+1654755026009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileHpQD9V"
+*** You are running in headless mode.
+1654755026931	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65279
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+JavaScript error: resource:///modules/UrlbarController.jsm, line 88: uncaught exception: out of memory
+out of memory: 0x000000000000C410 bytes requested
+Exiting due to channel error.
+1654755162894	geckodriver	INFO	Listening on 127.0.0.1:52629
+1654755165937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesCldGR"
+*** You are running in headless mode.
+1654755167230	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52630
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesCldGR\\search.json.mozlz4", (void 0)))
+[Parent 35636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654755172241	Marionette	INFO	Listening on port 52660
+DevTools listening on ws://localhost:52630/devtools/browser/a97de03d-e3a3-4770-965c-71d841eb1518
+Read port: 52660
+1654755172385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T06:12:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:12:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:12:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:12:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654755177472	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+out of memory: 0x000000000009D1D8 bytes requested
+Exiting due to channel error.
+1654755853352	geckodriver	INFO	Listening on 127.0.0.1:54207
+1654755856377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileAmccha"
+*** You are running in headless mode.
+1654755857104	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54208
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileAmccha\\search.json.mozlz4", (void 0)))
+1654755860657	Marionette	INFO	Listening on port 54236
+DevTools listening on ws://localhost:54208/devtools/browser/70d58659-e408-40ce-abf1-84ae9e9d12f1
+Read port: 54236
+1654755860877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T06:24:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:24:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:24:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:24:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654755865759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654783958846	geckodriver	INFO	Listening on 127.0.0.1:60911
+1654783962188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileWpouiN"
+*** You are running in headless mode.
+1654783963309	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60912
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileWpouiN\\search.json.mozlz4", (void 0)))
+1654783967193	Marionette	INFO	Listening on port 60936
+Read port: 60936
+DevTools listening on ws://localhost:60912/devtools/browser/11f0796c-5092-47c3-a342-98b8f8779590
+1654783967330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T14:12:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654783973709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T14:12:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T14:12:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T14:12:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654789717055	geckodriver	INFO	Listening on 127.0.0.1:65223
+1654789720140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilelrTYqn"
+*** You are running in headless mode.
+1654790863014	geckodriver	INFO	Listening on 127.0.0.1:60173
+1654790866074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileBe9kFd"
+*** You are running in headless mode.
+1654790866923	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60174
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileBe9kFd\\search.json.mozlz4", (void 0)))
+1654790869566	Marionette	INFO	Listening on port 60202
+Read port: 60202
+1654790869611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60174/devtools/browser/5387f80d-31ce-45fc-97a7-c9ca8d9b0e3b
+[2022-06-09T16:07:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:07:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:07:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:07:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654790874267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 1659 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 1753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+out of memory: 0x00000000000411A6 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1654790996360	Marionette	INFO	Stopped listening on port 60202
+[Parent 31304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654791966287	geckodriver	INFO	Listening on 127.0.0.1:52712
+1654791969344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilejK3Ord"
+*** You are running in headless mode.
+1654791970199	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52713
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilejK3Ord\\search.json.mozlz4", (void 0)))
+1654791974098	Marionette	INFO	Listening on port 52738
+Read port: 52738
+1654791974200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52713/devtools/browser/36d9f78f-5bd3-44b6-a9cd-19bbe06df6cc
+[2022-06-09T16:26:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:26:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:26:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T16:26:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654791979535	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
