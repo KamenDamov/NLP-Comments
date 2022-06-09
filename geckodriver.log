@@ -1,0 +1,631 @@
+1654744765097	geckodriver	INFO	Listening on 127.0.0.1:51408
+1654744768220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51409" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile35vJsB"
+1654744769112	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51409
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile35vJsB\\search.json.mozlz4", (void 0)))
+1654744773568	Marionette	INFO	Listening on port 51414
+DevTools listening on ws://localhost:51409/devtools/browser/4927d49b-08e4-492d-9d37-528ed634c796
+1654744774062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654744863715	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T03:21:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:21:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:21:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:21:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654744985715	Marionette	INFO	Stopped listening on port 51414
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654745584446	geckodriver	INFO	Listening on 127.0.0.1:55352
+1654745587570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55353" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile8pchp8"
+1654745589783	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55353
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile8pchp8\\search.json.mozlz4", (void 0)))
+1654745594447	Marionette	INFO	Listening on port 55358
+1654745594639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55353/devtools/browser/082df207-ecbd-4640-b3df-f9f6cb2429c2
+1654745605468	Marionette	INFO	Stopped listening on port 55358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654745638153	geckodriver	INFO	Listening on 127.0.0.1:52107
+1654745641268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52108" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileqUwty8"
+1654745642427	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52108
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileqUwty8\\search.json.mozlz4", (void 0)))
+1654745646656	Marionette	INFO	Listening on port 52114
+DevTools listening on ws://localhost:52108/devtools/browser/bb83f90c-a012-4664-9a1d-592d7bf1c520
+1654745647178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654746865988	Marionette	INFO	Stopped listening on port 52114
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileUYm43D"
+1654746671051	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60865
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileUYm43D\\search.json.mozlz4", (void 0)))
+1654746674938	Marionette	INFO	Listening on port 60891
+Read port: 60891
+1654746675037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60865/devtools/browser/10b61d43-740c-4110-9765-ddb0bb636921
+1654746678364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T03:51:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:51:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:51:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:51:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654746686165	Marionette	INFO	Stopped listening on port 60891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654747052926	geckodriver	INFO	Listening on 127.0.0.1:63034
+1654747055980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileMQXR93"
+*** You are running in headless mode.
+1654747056416	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63035
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileMQXR93\\search.json.mozlz4", (void 0)))
+1654747057689	Marionette	INFO	Listening on port 63058
+DevTools listening on ws://localhost:63035/devtools/browser/8d6c5c28-7881-4235-92c9-bbe8aaca03cf
+Read port: 63058
+1654747057752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747061338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T03:57:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:57:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:57:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T03:57:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55745
+1654747241303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileYKSkHI"
+*** You are running in headless mode.
+1654747241747	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55746
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileYKSkHI\\search.json.mozlz4", (void 0)))
+1654747243206	Marionette	INFO	Listening on port 55768
+DevTools listening on ws://localhost:55746/devtools/browser/8be60b96-7d8d-4aa1-9603-069590cdffce
+Read port: 55768
+1654747243306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747249461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:00:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:00:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:00:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:00:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55827
+1654747274200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileENWaWp"
+1654747274854	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55828
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileENWaWp\\search.json.mozlz4", (void 0)))
+1654747278872	Marionette	INFO	Listening on port 55868
+Read port: 55868
+1654747278927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55828/devtools/browser/3f63a6eb-e427-4f0f-9b3b-1392c9dc2bc6
+1654747281947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:01:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:01:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:01:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:01:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+1654747574352	geckodriver	INFO	Listening on 127.0.0.1:51897
+1654747577384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileKfBr0f"
+1654747577938	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51898
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileKfBr0f\\search.json.mozlz4", (void 0)))
+1654747580463	Marionette	INFO	Listening on port 51924
+Read port: 51924
+1654747580508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51898/devtools/browser/17408ebf-98f7-450f-a277-2fe1912887ac
+1654747583312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:06:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:06:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:06:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:06:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747661187	Marionette	INFO	Stopped listening on port 51924
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ilexAxxoz"
+1654747621977	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61220
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilexAxxoz\\search.json.mozlz4", (void 0)))
+1654747625133	Marionette	INFO	Listening on port 61244
+DevTools listening on ws://localhost:61220/devtools/browser/ff8eac07-2c55-4311-9e18-e3ea87bba94e
+Read port: 61244
+1654747625220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747627758	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:07:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747662386	Marionette	INFO	Stopped listening on port 61244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileJOlcNq"
+1654747661711	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57099
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileJOlcNq\\search.json.mozlz4", (void 0)))
+1654747666000	Marionette	INFO	Listening on port 57374
+Read port: 57374
+DevTools listening on ws://localhost:57099/devtools/browser/3a72cd90-49b7-4fab-8714-555c1196690a
+1654747666095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747672164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:07:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:07:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747689072	Marionette	INFO	Stopped listening on port 57374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileN108n3"
+1654747689730	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57443
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileN108n3\\search.json.mozlz4", (void 0)))
+1654747693265	Marionette	INFO	Listening on port 57472
+DevTools listening on ws://localhost:57443/devtools/browser/59b2bc7c-b9b4-4397-8aac-715be4ef7a37
+Read port: 57472
+1654747693331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747695856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:08:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:08:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:08:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:08:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747956441	Marionette	INFO	Stopped listening on port 57472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile1jht3i"
+1654747785129	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57481
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile1jht3i\\search.json.mozlz4", (void 0)))
+1654747787362	Marionette	INFO	Listening on port 57533
+DevTools listening on ws://localhost:57481/devtools/browser/fdec68c9-04b0-4f7a-857a-744d11f5f803
+Read port: 57533
+1654747787492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747791334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:09:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:09:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:09:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:09:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747804942	Marionette	INFO	Stopped listening on port 57533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654747826337	geckodriver	INFO	Listening on 127.0.0.1:64184
+1654747829403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezW0f8m"
+1654747829905	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64185
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezW0f8m\\search.json.mozlz4", (void 0)))
+1654747832384	Marionette	INFO	Listening on port 64210
+DevTools listening on ws://localhost:64185/devtools/browser/b8bb08d5-4ebf-41a3-ada5-9b4a81b8dbba
+Read port: 64210
+1654747832521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T04:10:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:10:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:10:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:10:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654747836813	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript warning: debugger eager eval code, line 7: unreachable code after return statement
+JavaScript warning: resource://devtools/server/actors/webconsole/eval-with-debugger.js, line 272: unreachable code after return statement
+esource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+1654747865828	Marionette	INFO	Stopped listening on port 57962
+1654747881371	geckodriver	INFO	Listening on 127.0.0.1:54828
+1654747884446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebaL09A"
+*** You are running in headless mode.
+1654747884934	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54829
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebaL09A\\search.json.mozlz4", (void 0)))
+1654747886517	Marionette	INFO	Listening on port 54853
+Read port: 54853
+DevTools listening on ws://localhost:54829/devtools/browser/d3decc18-bfe6-4655-ae2b-69baee71cfa0
+1654747886566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654747891281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:11:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62549
+1654748546415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemcrkjB"
+*** You are running in headless mode.
+1654748546963	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62550
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemcrkjB\\search.json.mozlz4", (void 0)))
+1654748548869	Marionette	INFO	Listening on port 62574
+DevTools listening on ws://localhost:62550/devtools/browser/4bd0f6a2-31d3-4b45-80e1-11df44a459a3
+Read port: 62574
+1654748549021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654748556366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:22:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62634
+1654748582066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesVK94V"
+*** You are running in headless mode.
+1654748582766	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62635
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilesVK94V\\search.json.mozlz4", (void 0)))
+1654748585059	Marionette	INFO	Listening on port 62660
+DevTools listening on ws://localhost:62635/devtools/browser/c81bbb2b-9c5f-4b0d-b1fc-2eefd2b60e2a
+Read port: 62660
+1654748585258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654748587983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56696
+1654748607134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile0Z57wG"
+*** You are running in headless mode.
+1654748608219	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56697
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile0Z57wG\\search.json.mozlz4", (void 0)))
+1654748610945	Marionette	INFO	Listening on port 56722
+Read port: 56722
+1654748611054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56697/devtools/browser/ca487e2b-2b95-46bf-abf0-7088a11a9796
+1654748615805	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:23:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 7185 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654748861813	geckodriver	INFO	Listening on 127.0.0.1:50074
+1654748864850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezF4ANg"
+*** You are running in headless mode.
+1654748865492	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50075
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilezF4ANg\\search.json.mozlz4", (void 0)))
+1654748868488	Marionette	INFO	Listening on port 50105
+DevTools listening on ws://localhost:50075/devtools/browser/6e3f9ba5-48d5-4b45-869e-ee4d276d0481
+Read port: 50105
+1654748868630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654748873560	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:27:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:27:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:27:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:27:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63391
+1654749158636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileX4hOj1"
+*** You are running in headless mode.
+1654749159432	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63392
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileX4hOj1\\search.json.mozlz4", (void 0)))
+1654749162537	Marionette	INFO	Listening on port 63417
+Read port: 63417
+1654749162630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63392/devtools/browser/3aab7031-a21c-4af6-92df-868ae8d59dbe
+1654749165643	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:32:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:32:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:32:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:32:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51410
+1654749315134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilerrXjEj"
+*** You are running in headless mode.
+1654749316325	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51411
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilerrXjEj\\search.json.mozlz4", (void 0)))
+1654749319317	Marionette	INFO	Listening on port 51439
+Read port: 51439
+1654749319448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51411/devtools/browser/77f6417e-a1d5-4924-bf9f-014898ffcb6b
+1654749325317	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:35:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:35:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:35:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:35:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62727
+1654749767570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileLfjns1"
+*** You are running in headless mode.
+1654749768094	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62728
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileLfjns1\\search.json.mozlz4", (void 0)))
+1654749769636	Marionette	INFO	Listening on port 62754
+Read port: 62754
+1654749769694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62728/devtools/browser/8c147ced-8bfc-4d17-b27c-3d64eda3718b
+[2022-06-09T04:42:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:42:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:42:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:42:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654749774611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 6793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1654750283543	geckodriver	INFO	Listening on 127.0.0.1:51482
+1654750286613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilevQ26o2"
+*** You are running in headless mode.
+1654750287221	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51483
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilevQ26o2\\search.json.mozlz4", (void 0)))
+1654750288958	Marionette	INFO	Listening on port 51509
+DevTools listening on ws://localhost:51483/devtools/browser/d10c934b-dd3b-42e9-b92e-e911505096ae
+Read port: 51509
+1654750289063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T04:51:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:51:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:51:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654750293569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:51:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49253
+1654750446525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemnXIgk"
+*** You are running in headless mode.
+1654750447147	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49254
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilemnXIgk\\search.json.mozlz4", (void 0)))
+1654750449280	Marionette	INFO	Listening on port 49280
+DevTools listening on ws://localhost:49254/devtools/browser/b7a5d04d-9542-46b9-a219-79cf07367046
+Read port: 49280
+1654750449474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654750453349	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T04:54:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:54:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:54:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T04:54:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61072
+1654750965471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilevXCS2S"
+*** You are running in headless mode.
+1654750966105	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61073
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilevXCS2S\\search.json.mozlz4", (void 0)))
+1654750967855	Marionette	INFO	Listening on port 61101
+Read port: 61101
+1654750967934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61073/devtools/browser/58383df8-144f-482e-aefb-25d93c36b95a
+1654750971648	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:02:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:02:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:02:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:02:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654752554642	geckodriver	INFO	Listening on 127.0.0.1:49735
+1654752557713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileGWuVhu"
+*** You are running in headless mode.
+1654752558364	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49736
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileGWuVhu\\search.json.mozlz4", (void 0)))
+1654752559975	Marionette	INFO	Listening on port 49760
+Read port: 49760
+1654752560061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:49736/devtools/browser/94b802a2-cb87-4f00-83f9-847db51795d4
+1654752562661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:29:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:29:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:29:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:29:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53981
+1654752658107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile6tGlt9"
+*** You are running in headless mode.
+1654752658571	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53982
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile6tGlt9\\search.json.mozlz4", (void 0)))
+1654752660461	Marionette	INFO	Listening on port 54005
+Read port: 54005
+DevTools listening on ws://localhost:53982/devtools/browser/875e9f2d-c09b-47a9-813e-87e5e2a00bd6
+1654752660579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654752664447	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:31:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:31:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:31:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:31:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58192
+1654752973710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebmizE0"
+*** You are running in headless mode.
+1654752974540	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58193
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebmizE0\\search.json.mozlz4", (void 0)))
+1654752977119	Marionette	INFO	Listening on port 58221
+Read port: 58221
+1654752977190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58193/devtools/browser/0633b5ef-2488-4c84-94f8-55262b7b9878
+1654752981795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:36:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:36:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:36:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:36:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58369
+1654753152400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilegCL1j7"
+*** You are running in headless mode.
+1654753152952	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58370
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilegCL1j7\\search.json.mozlz4", (void 0)))
+1654753154534	Marionette	INFO	Listening on port 58385
+Read port: 58385
+DevTools listening on ws://localhost:58370/devtools/browser/d6bcd842-9f4c-417d-98d4-3f7badb9ee8b
+1654753154622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654753156952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:39:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:39:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:39:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:39:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51889
+1654753275891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileARhByk"
+*** You are running in headless mode.
+1654753276325	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51890
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileARhByk\\search.json.mozlz4", (void 0)))
+1654753278127	Marionette	INFO	Listening on port 51912
+DevTools listening on ws://localhost:51890/devtools/browser/d0a77096-18ff-46b5-ac49-22a07cbf9feb
+Read port: 51912
+1654753278224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654753282497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:41:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:41:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:41:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:41:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52072
+1654753452950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileytZnSQ"
+*** You are running in headless mode.
+1654753453516	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52073
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileytZnSQ\\search.json.mozlz4", (void 0)))
+1654753455784	Marionette	INFO	Listening on port 52095
+Read port: 52095
+1654753455888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52073/devtools/browser/56df440d-11cf-49f8-a685-d59bb328fbaa
+1654753458978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:44:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:44:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:44:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:44:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64051
+1654753682397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebnT1VK"
+*** You are running in headless mode.
+1654753683265	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64052
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebnT1VK\\search.json.mozlz4", (void 0)))
+1654753686749	Marionette	INFO	Listening on port 64075
+Read port: 64075
+1654753686924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64052/devtools/browser/e5cd9ab1-789f-4d2b-87aa-186e6e34af01
+1654753693543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-06-09T05:48:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:48:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:48:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:48:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58725
+1654754040385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilecnEfPe"
+*** You are running in headless mode.
+1654754041062	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58726
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilecnEfPe\\search.json.mozlz4", (void 0)))
+1654754043913	Marionette	INFO	Listening on port 58750
+DevTools listening on ws://localhost:58726/devtools/browser/7ab09e33-eb16-4201-bffc-9dc967f5a35d
+Read port: 58750
+1654754044270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-06-09T05:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T05:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654754049527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1654754528091	geckodriver	INFO	Listening on 127.0.0.1:60410
+1654754531115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileGfcrT4"
+*** You are running in headless mode.
+1654754531956	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60411
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileGfcrT4\\search.json.mozlz4", (void 0)))
+1654754535078	Marionette	INFO	Listening on port 60448
+Read port: 60448
+1654754535236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60411/devtools/browser/fa51a334-ed6c-4800-a4b5-7d0cd43e3331
+[2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-06-09T06:02:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1654754539672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1654754631613	geckodriver	INFO	Listening on 127.0.0.1:60591
+1654754634849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileSSbkvt"
+*** You are running in headless mode.
+1654754635950	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60592
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileSSbkvt\\search.json.mozlz4", (void 0)))
+1654754639680	Marionette	INFO	Listening on port 60632
+Read port: 60632
+DevTools listening on ws://localhost:60592/devtools/browser/d56a9ff0-e6d8-4ef3-af76-85d180ca9d0f
+1654754639813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Fallback remains SW-WR
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+out of memory: 0x0000000000100000 bytes requested
+JavaScript error: , line 0: uncaught exception: out of memory
