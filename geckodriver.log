@@ -826,8 +826,10 @@ Read port: 64147
 [2022-06-09T18:46:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:60235
-1654808451657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilek8JPX3"
+1654985976856	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rofile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilek8JPX3"
 *** You are running in headless mode.
 1654808452247	Marionette	INFO	Marionette enabled
 WebDriver BiDi listening on ws://localhost:60236
@@ -845,9 +847,11 @@ Read port: 60257
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Kamen\AppData\Local\Temp\rust_mozprofilek8JPX3\bookmarkbackups\bookmarks-2022-06-09.jsonlz4) because it does not exist
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Kamen\AppData\Local\Temp\rust_mozprofilek8JPX3\bookmarkbackups\bookmarks-2022-06-09.jsonlz4) because it does not exist
-1654830596572	geckodriver	INFO	Listening on 127.0.0.1:60447
-1654830599625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofiletqTLjB"
-*** You are running in headless mode.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Kamen\AppData\Local\Temp\rust_mozprofilek8JPX3\bookmarkbackups\bookmarks-2022-06-11_11_YJuwZ3eLfrF+Hg1T4rHvaQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+de.
 1654830600836	Marionette	INFO	Marionette enabled
 WebDriver BiDi listening on ws://localhost:60448
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -862,9 +866,11 @@ DevTools listening on ws://localhost:60448/devtools/browser/bf9fe02a-8fc8-4c58-8
 [2022-06-10T03:10:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 1654830609713	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1654869620381	geckodriver	INFO	Listening on 127.0.0.1:53508
-1654869623457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileMjdNB5"
-*** You are running in headless mode.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Kamen\AppData\Local\Temp\rust_mozprofiletqTLjB\bookmarkbackups\bookmarks-2022-06-12_11_oXa2LJD3EUBNvbagnyuVGA==.jsonlz4) because it does not exist
+de.
 1654869624299	Marionette	INFO	Marionette enabled
 WebDriver BiDi listening on ws://localhost:53509
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -878,4 +884,8 @@ DevTools listening on ws://localhost:53509/devtools/browser/29678ab7-d20c-4d08-8
 [2022-06-10T14:00:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 [2022-06-10T14:00:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 1654869631410	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Kamen\AppData\Local\Temp\rust_mozprofileMjdNB5\bookmarkbackups\bookmarks-2022-06-11_11_JqW07Z8zGmWb4GTjYNjcEw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
